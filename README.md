@@ -28,7 +28,7 @@ btcwallet/
 ### 1. 安装依赖
 
 ```bash
-npm install express
+npm install
 ```
 
 ### 2. 启动Web服务器
